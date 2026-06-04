@@ -54,15 +54,3 @@ Built a simple age calculator that:
 
 ---
 
-## 🎯 Learning Outcome
-
-After completing todays topic, I can:
-
-* Convert data between different types
-* Accept user input in Python
-* Handle multiple inputs
-* Format program output
-* Build basic interactive Python programs
-
----
-
